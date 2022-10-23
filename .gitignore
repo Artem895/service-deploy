@@ -1,0 +1,7 @@
+.idea
+/target
+/common-module
+/medical-monitoring
+/message-analyzer
+/person-service
+/src
